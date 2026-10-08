@@ -2,7 +2,7 @@ package coreJavaFoundation;
 
 public class Demo {
 
-    public void show() {
+    protected  void show() {
         System.out.println("Hello from Demo");
     }
 
